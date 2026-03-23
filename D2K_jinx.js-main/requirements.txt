@@ -1,0 +1,17 @@
+streamlit 
+pandas 
+numpy 
+google-generativeai 
+python-dotenv
+fastapi
+langchain 
+langchain-google-genai 
+PyPDF2
+httpx 
+reportlab
+python-multipart
+google-genai
+uvicorn
+matplotlib
+weasyprint 
+jinja2
